@@ -6,4 +6,5 @@ A tool for a smoother experience on Glassdoor
 
 # Credits
 **ChatGPT:** Icon designer
+
 **Perplexity:** Developer, UI designer
