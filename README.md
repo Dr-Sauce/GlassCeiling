@@ -1,2 +1,5 @@
 # GlassCeiling
-A tool for smoother experience on Glassdoor
+A tool for a smoother experience on Glassdoor
+
+- Removes login popup.
+- Shows full text in `Reviews` and `Interview` without login.
